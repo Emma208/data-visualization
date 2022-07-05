@@ -1,4 +1,3 @@
-from shutil import which
 import matplotlib.pyplot as plt
 
 #plotting a series of points using scatter()
