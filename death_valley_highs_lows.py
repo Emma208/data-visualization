@@ -8,4 +8,4 @@ with open(filename) as f:
 
 
     for index,column_header in enumerate(header_row):
-        print(index,column)
+        print(index,column_header)
